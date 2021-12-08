@@ -1,5 +1,11 @@
 # Analise-de-Eleicoes
 
+integrantes:
+Thiago Fernandes Canonici
+Sandro de Araujo
+Euclides Franco de Rezende
+Flávia Monique de Lima Rodrigues
+
 #01 Jornalista quer saber a classificação do eleitorado a partir do estado civil, escolaridade e faixa etária, além da quantidade de eleitores que utilizam nome social
 
 #02 Jornalista quer relacionar as características do eleitorado de acordo com o representante eleito em determinada região
