@@ -1,10 +1,10 @@
 # Analise-de-Eleicoes
 
 integrantes:
-Thiago Fernandes Canonici
-Sandro de Araujo
-Euclides Franco de Rezende
-Flávia Monique de Lima Rodrigues
+Thiago Fernandes Canonici,
+Sandro de Araujo,
+Euclides Franco de Rezende,
+Flávia Monique de Lima Rodrigues.
 
 #01 Jornalista quer saber a classificação do eleitorado a partir do estado civil, escolaridade e faixa etária, além da quantidade de eleitores que utilizam nome social
 
